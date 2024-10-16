@@ -70,7 +70,7 @@ O código está dividido em diversas funções e algumas features:
 
 ### Observações
 
-- O código utiliza `delay()` para controlar o tempo, o que pode causar atrasos no loop principal.
+- O código utiliza `delay()` para controlar o tempo.
 
 ### Site utilizado para simulação
 
