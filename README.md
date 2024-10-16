@@ -44,7 +44,7 @@ Para esse checkpoint de IA implementamos um jogo de memória semlhante ao jogo "
 ### Instalação
 
 1. Faça o download ou clone este repositório.
-2. Abra o arquivo `genius.ino` no Arduino IDE.
+2. Abra o arquivo `jogo_da_memoria.ino` no Arduino IDE.
 3. Conecte seu Arduino ao computador.
 4. Selecione a placa e a porta serial corretas no Arduino IDE.
 5. Faça o upload do código para o Arduino.
