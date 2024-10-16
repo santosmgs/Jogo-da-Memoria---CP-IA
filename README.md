@@ -74,6 +74,6 @@ O código está dividido em diversas funções e algumas features:
 
 ### Site utilizado para simulação
 
-- Tinkercard
+- Tinkercad
 
 
